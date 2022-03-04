@@ -1,5 +1,5 @@
 # 2022_Spring_ArduinoStudy
-![캡](https://user-images.githubusercontent.com/81175672/156735029-79b74345-ee1d-4e32-b0ed-21bf23883ac4.JPG){: width="50" height="50"}                            
+<img src="https://user-images.githubusercontent.com/81175672/156735029-79b74345-ee1d-4e32-b0ed-21bf23883ac4.JPG"  width="200" height="400"/>
 > 신입생 권장 프로그램 (미리해두면 나중에 엄청 도움된다.....)
 
 ## 스터디 목표
