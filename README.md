@@ -33,7 +33,8 @@
 
 |주차|날짜|내용,자료|미션|
 |:---:|:---:|:---:|:---:|
-0주차|21.03.18(예정)|진행 방식 설명|x|
+0주차|22.03.19 or 3.20|OT & 깃허브 튜토리얼|x|
+1주차|22.03.21 ~ 3.27|인공지능 기본 및 티쳐블 |x|
 1주차|21.03.22 ~ 21.03.28|[1주차 자료](https://github.com/sejongsmarcle/2021_Spring_ArduinoStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%EC%9E%90%EB%A3%8C/1%EC%A3%BC%EC%B0%A8)|[1주차 미션](https://github.com/sejongsmarcle/2021_Spring_ArduinoStudy/issues/2)|
 2주차|21.03.29 ~ 21.04.04|[2주차 자료](https://github.com/sejongsmarcle/2021_Spring_ArduinoStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%EC%9E%90%EB%A3%8C/2%EC%A3%BC%EC%B0%A8)|[2주차 미션](https://github.com/sejongsmarcle/2021_Spring_ArduinoStudy/issues/4)|
 3주차|21.04.05 ~ 21.04.11|[3주차 자료]()|[3주차 미션]()|
