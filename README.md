@@ -36,13 +36,13 @@
 |주차|날짜|내용,자료|미션|영상|
 |:---:|:---:|:---:|:---:|:--:|
 0주차|22.03.19 or 3.20|[OT & 깃허브 튜토리얼]()|[0주차 미션]()|x|x|
-1주차|22.03.21 ~ 3.27|[인공지능 기본 및 Teachable Machine](https://www.youtube.com/watch?v=Vlc3pyTRyJI&list=PLvRUlpIVi9qQE4GkzUYpdDVxIN5rBeDYR&index=15) |[1주차 미션](https://github.com/sejongsmarcle/2022_Spring_ArduinoStudy/blob/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/1%EC%A3%BC%EC%B0%A8/1%EC%A3%BC%EC%B0%A8%20%EB%AF%B8%EC%85%98.md)|x|x|
-2주차|21.03.28 ~ 21.04.03|[아두이노 1회차](https://github.com/sejongsmarcle/2021_Spring_ArduinoStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%EC%9E%90%EB%A3%8C/1%EC%A3%BC%EC%B0%A8)|[2주차 미션](https://github.com/sejongsmarcle/2021_Spring_ArduinoStudy/issues/2)|x|
-3주차|21.04.04 ~ 21.04.10|[아두이노 2회차](https://github.com/sejongsmarcle/2021_Spring_ArduinoStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%EC%9E%90%EB%A3%8C/2%EC%A3%BC%EC%B0%A8)|[3주차 미션](https://github.com/sejongsmarcle/2021_Spring_ArduinoStudy/issues/4)|x|
-4주차|21.04.11 ~ 21.04.17|[아두이노 3회차]()|[4주차 미션]()|x|
-5주차|21.05.02 ~ 21.05.08|[아두이노 4회차]()|[5주차 미션]()|x|
-6주차|21.05.09 ~ 21.05.15|[아두이노 5회차]()|[6주차 미션]()|x|
-7주차|21.05.16 ~ 21.05.22|[아두이노 6회차]()|[7주차 미션]()|x|
+1주차|22.03.21 ~ 3.27|[인공지능 기본 및 Teachable Machine](https://www.youtube.com/watch?v=Vlc3pyTRyJI&list=PLvRUlpIVi9qQE4GkzUYpdDVxIN5rBeDYR&index=15) |[1주차 미션](https://github.com/sejongsmarcle/2022_Spring_ArduinoStudy/blob/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/1%EC%A3%BC%EC%B0%A8/1%EC%A3%BC%EC%B0%A8%20%EB%AF%B8%EC%85%98.md)|[인공지능](https://www.youtube.com/watch?v=nxrLOodB5Yg&list=PLvRUlpIVi9qQE4GkzUYpdDVxIN5rBeDYR&index=14), [teachable machine](https://www.youtube.com/watch?v=Vlc3pyTRyJI&list=PLvRUlpIVi9qQE4GkzUYpdDVxIN5rBeDYR&index=15)|
+2주차|21.03.28 ~ 21.04.03|[아두이노 1회차](https://github.com/sejongsmarcle/2021_Spring_ArduinoStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%EC%9E%90%EB%A3%8C/1%EC%A3%BC%EC%B0%A8)|[2주차 미션](https://github.com/sejongsmarcle/2021_Spring_ArduinoStudy/issues/2)|[2강](https://www.youtube.com/watch?v=A4sR7h03Z98&list=PLvRUlpIVi9qQE4GkzUYpdDVxIN5rBeDYR&index=2), [3강](https://www.youtube.com/watch?v=uW3HYIBQnsw&list=PLvRUlpIVi9qQE4GkzUYpdDVxIN5rBeDYR&index=3)|
+3주차|21.04.04 ~ 21.04.10|[아두이노 2회차](https://github.com/sejongsmarcle/2021_Spring_ArduinoStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%EC%9E%90%EB%A3%8C/2%EC%A3%BC%EC%B0%A8)|[2회차 미션](https://github.com/sejongsmarcle/2021_Spring_ArduinoStudy/issues/4)|[4강](https://www.youtube.com/watch?v=HmIrrwRos2I&list=PLvRUlpIVi9qQE4GkzUYpdDVxIN5rBeDYR&index=4), [5강](https://www.youtube.com/watch?v=Ya2dZEH3Bw4&list=PLvRUlpIVi9qQE4GkzUYpdDVxIN5rBeDYR&index=5)|
+4주차|21.04.11 ~ 21.04.17|[아두이노 3회차]()|[3회차 미션]()|[6강](https://www.youtube.com/watch?v=-XZK9K6GkWU&list=PLvRUlpIVi9qQE4GkzUYpdDVxIN5rBeDYR&index=6), [7강](https://www.youtube.com/watch?v=xwEm5dEk6e4&list=PLvRUlpIVi9qQE4GkzUYpdDVxIN5rBeDYR&index=7)|
+5주차|21.05.02 ~ 21.05.08|[아두이노 4회차]()|[4회차 미션]()|[8강](https://www.youtube.com/watch?v=9mHwuiHsvPc&list=PLvRUlpIVi9qQE4GkzUYpdDVxIN5rBeDYR&index=8), [9강](https://www.youtube.com/watch?v=ItLQb-jLVbg&list=PLvRUlpIVi9qQE4GkzUYpdDVxIN5rBeDYR&index=9)|
+6주차|21.05.09 ~ 21.05.15|[아두이노 5회차]()|[5회차 미션]()|[10강](https://www.youtube.com/watch?v=jHWNWzYHf0o&list=PLvRUlpIVi9qQE4GkzUYpdDVxIN5rBeDYR&index=10), [11강](https://www.youtube.com/watch?v=XyJVEqmrPUo&list=PLvRUlpIVi9qQE4GkzUYpdDVxIN5rBeDYR&index=11)|
+7주차|21.05.16 ~ 21.05.22|[아두이노 6회차]()|[6회차 미션]()|[12강](https://www.youtube.com/watch?v=X5VG-04pXTs&list=PLvRUlpIVi9qQE4GkzUYpdDVxIN5rBeDYR&index=12), [13강](https://www.youtube.com/watch?v=b7Mg5ay7zpw&list=PLvRUlpIVi9qQE4GkzUYpdDVxIN5rBeDYR&index=13)|
 예비|21.05.23 ~ 21.05.29|[아두이노]()|[미션]()|x|
 에비|21.05.30 ~ 21.06.05|[아두이노]()|[미션]()|x|
 
