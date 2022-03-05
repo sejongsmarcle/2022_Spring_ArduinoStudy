@@ -1,6 +1,6 @@
 # 2022_Spring_ArduinoStudy
 <img src="https://user-images.githubusercontent.com/81175672/156735029-79b74345-ee1d-4e32-b0ed-21bf23883ac4.JPG"  width="400" height="300"/>          
-(->voxelart designed by RyuJungSoo)                                             
+(-> voxelart designed by RyuJungSoo)                                             
                                                                
 > 신입생 권장 프로그램 (미리해두면 나중에 엄청 도움된다.....)
 
