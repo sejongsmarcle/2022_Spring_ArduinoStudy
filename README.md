@@ -34,7 +34,7 @@
 |주차|날짜|내용,자료|미션|영상|
 |:---:|:---:|:---:|:---:|:--:|
 0주차|22.03.19 or 3.20|[OT & 깃허브 튜토리얼]()|[0주차 미션]()|x|x|
-1주차|22.03.21 ~ 3.27|[인공지능 기본 및 teachabel machine](https://www.youtube.com/watch?v=Vlc3pyTRyJI&list=PLvRUlpIVi9qQE4GkzUYpdDVxIN5rBeDYR&index=15) |[1주차 미션]()|x|x|
+1주차|22.03.21 ~ 3.27|[인공지능 기본 및 teachabel machine](https://www.youtube.com/watch?v=Vlc3pyTRyJI&list=PLvRUlpIVi9qQE4GkzUYpdDVxIN5rBeDYR&index=15) |[1주차 미션](https://github.com/sejongsmarcle/2022_Spring_ArduinoStudy/blob/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/1%EC%A3%BC%EC%B0%A8/1%EC%A3%BC%EC%B0%A8%20%EB%AF%B8%EC%85%98.md)|x|x|
 2주차|21.03.28 ~ 21.04.03|[아두이노 1회차](https://github.com/sejongsmarcle/2021_Spring_ArduinoStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%EC%9E%90%EB%A3%8C/1%EC%A3%BC%EC%B0%A8)|[2주차 미션](https://github.com/sejongsmarcle/2021_Spring_ArduinoStudy/issues/2)|x|
 3주차|21.04.04 ~ 21.04.10|[아두이노 2회차](https://github.com/sejongsmarcle/2021_Spring_ArduinoStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%EC%9E%90%EB%A3%8C/2%EC%A3%BC%EC%B0%A8)|[3주차 미션](https://github.com/sejongsmarcle/2021_Spring_ArduinoStudy/issues/4)|x|
 4주차|21.04.11 ~ 21.04.17|[아두이노 3회차]()|[4주차 미션]()|x|
