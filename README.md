@@ -31,18 +31,18 @@
 ## 스터디 계획
 #### 스터디 기간 21.03 ~ 21.06 총 5회차 (중간고사,2차인증시험,기말고사 주간 제외) 
 
-|주차|날짜|내용,자료|미션|
-|:---:|:---:|:---:|:---:|
-0주차|22.03.19 or 3.20|OT & 깃허브 튜토리얼|x|x|
-1주차|22.03.21 ~ 3.27|[인공지능 기본 및 teachabel machine](https://www.youtube.com/watch?v=Vlc3pyTRyJI&list=PLvRUlpIVi9qQE4GkzUYpdDVxIN5rBeDYR&index=15) |x|x|
-2주차|21.03.28 ~ 21.04.03|[아두이노 1회차](https://github.com/sejongsmarcle/2021_Spring_ArduinoStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%EC%9E%90%EB%A3%8C/1%EC%A3%BC%EC%B0%A8)|[1주차 미션](https://github.com/sejongsmarcle/2021_Spring_ArduinoStudy/issues/2)|
-3주차|21.04.04 ~ 21.04.10|[아두이노 2회차](https://github.com/sejongsmarcle/2021_Spring_ArduinoStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%EC%9E%90%EB%A3%8C/2%EC%A3%BC%EC%B0%A8)|[2주차 미션](https://github.com/sejongsmarcle/2021_Spring_ArduinoStudy/issues/4)|
-4주차|21.04.11 ~ 21.04.17|[아두이노 3회차]()|[3주차 미션]()|
-5주차|21.05.02 ~ 21.05.08|[아두이노 4회차]()|[4주차 미션]()|
-6주차|21.05.09 ~ 21.05.15|[아두이노 5회차]()|[5주차 미션]()|
-7주차|21.05.16 ~ 21.05.22|[아두이노 6회차]()|[5주차 미션]()|
-예비|21.05.23 ~ 21.05.29|[아두이노]()|[미션]()|
-에비|21.05.30 ~ 21.06.05|[아두이노]()|[미션]()|
+|주차|날짜|내용,자료|미션|영상|
+|:---:|:---:|:---:|:---:|:--:|
+0주차|22.03.19 or 3.20|[OT & 깃허브 튜토리얼]()|x|x|x|
+1주차|22.03.21 ~ 3.27|[인공지능 기본 및 teachabel machine](https://www.youtube.com/watch?v=Vlc3pyTRyJI&list=PLvRUlpIVi9qQE4GkzUYpdDVxIN5rBeDYR&index=15) |x|x|x|
+2주차|21.03.28 ~ 21.04.03|[아두이노 1회차](https://github.com/sejongsmarcle/2021_Spring_ArduinoStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%EC%9E%90%EB%A3%8C/1%EC%A3%BC%EC%B0%A8)|[1주차 미션](https://github.com/sejongsmarcle/2021_Spring_ArduinoStudy/issues/2)|x|
+3주차|21.04.04 ~ 21.04.10|[아두이노 2회차](https://github.com/sejongsmarcle/2021_Spring_ArduinoStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%EC%9E%90%EB%A3%8C/2%EC%A3%BC%EC%B0%A8)|[2주차 미션](https://github.com/sejongsmarcle/2021_Spring_ArduinoStudy/issues/4)|x|
+4주차|21.04.11 ~ 21.04.17|[아두이노 3회차]()|[3주차 미션]()|x|
+5주차|21.05.02 ~ 21.05.08|[아두이노 4회차]()|[4주차 미션]()|x|
+6주차|21.05.09 ~ 21.05.15|[아두이노 5회차]()|[5주차 미션]()|x|
+7주차|21.05.16 ~ 21.05.22|[아두이노 6회차]()|[5주차 미션]()|x|
+예비|21.05.23 ~ 21.05.29|[아두이노]()|[미션]()|x|
+에비|21.05.30 ~ 21.06.05|[아두이노]()|[미션]()|x|
 
 
 
