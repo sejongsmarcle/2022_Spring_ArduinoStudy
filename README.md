@@ -1,6 +1,6 @@
 # 2022_Spring_ArduinoStudy
 <img src="https://user-images.githubusercontent.com/81175672/156735029-79b74345-ee1d-4e32-b0ed-21bf23883ac4.JPG"  width="400" height="300"/>          
-[RyuJungSoo](https://www.instagram.com/p/CaY3ODtvRcQ/?utm_source=ig_web_copy_link)                       
+[인공지능 기본 및 Teachable Machine](https://www.youtube.com/watch?v=Vlc3pyTRyJI&list=PLvRUlpIVi9qQE4GkzUYpdDVxIN5rBeDYR&index=15)                                   
                                            
 > 신입생 권장 프로그램 (미리해두면 나중에 엄청 도움된다.....)
 
