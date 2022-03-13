@@ -280,7 +280,9 @@ __double underscores__
 
 ### 사진 크기 조절하는 법
 ```
-<img src="(사진 경로)"  width="(너비)" height="(높이)"/> 
+<img src="(사진 경로)"  width="(너비)" height="(높이)"/>
+<img width="{해상도 비율}" src="{사진 경로}"/>
+
 ```           
 
 
