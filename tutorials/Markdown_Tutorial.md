@@ -153,9 +153,82 @@ printf("Hello! We are Smarcle!\n");
 return 0;
 }
 ```
-*파이썬           
+* 파이썬           
 ```python
 print("Hello! We are Smarcle!\n")
 ```
+                   
+## 2.5. 수평선 ```<hr/>```
+아래 줄은 모두 수평선을 만든다. 마크다운 문서를 미리보기로 출력할 때 *페이지 나누기* 용도로 많이 사용한다.
 
+```
+* * *
+
+***
+
+*****
+
+- - -
+
+---------------------------------------
+```
+
+* 적용예
+* * *
+
+***
+
+*****
+
+- - -
+
+---------------------------------------
+
+## 2.6. 링크
+* 외부 링크
+```
+사용문법: [Title](link)
+적용예: [Google](https://google.com, "google link")
+```          
+Link: [Google](https://google.com, "google link")
+
+* 자동연결
+```
+일반적인 URL 혹은 이메일주소인 경우 적절한 형식으로 링크를 형성한다.
+
+* 외부링크: <http://example.com/>
+* 이메일링크: <address@example.com>
+```
+
+* 외부링크:  http://example.com/
+* 이메일링크:  address@example.com
+
+## 2.7. 강조
+```
+*single asterisks*
+_single underscores_
+**double asterisks**
+__double underscores__
+~~cancelline~~
+```
+*single asterisks*
+_single underscores_
+**double asterisks**
+__double underscores__
+~~cancelline~~
+
+## 2.8. 이미지
+```
+![Alt text](/path/to/img.jpg)
+![Alt text](/path/to/img.jpg "Optional title")
+```
+### 위 경로로 변경시키는 법
+![캡처45](https://user-images.githubusercontent.com/81175672/158050745-bedf1178-0c59-4626-b53b-ef4e2fe134a9.JPG)      
+1. Issues 창에 들어가기     
+![캡처46](https://user-images.githubusercontent.com/81175672/158050787-521ae066-3b0f-435a-b272-d2c8d2814890.JPG)          
+2. New issue 클릭          
+![캡처47](https://user-images.githubusercontent.com/81175672/158050813-c0c1ef99-5f9a-4b82-82a6-5f3323027052.JPG)      
+3. Leave a comment에 사진 파일 드래그
+![캡처48](https://user-images.githubusercontent.com/81175672/158050835-f0ae93b9-265a-4dbe-a962-9a3e79dcd7f8.JPG)    
+4. 반환된 경로를 github 파일에 붙여넣기
 
