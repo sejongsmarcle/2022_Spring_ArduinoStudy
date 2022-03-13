@@ -142,15 +142,18 @@ This is an H2
 깃헙에서는 코드블럭코드("```") 시작점에 사용하는 언어를 선언하여 [문법강조(Syntax highlighting)](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks#syntax-highlighting)이 가능하다.                 
 ![캡처123](https://user-images.githubusercontent.com/81175672/158050318-6ab3a8a3-23e8-4fad-aaee-75ba014b49eb.JPG)
 [표 출처](https://computer-science-student.tistory.com/366)                
+
+* C언어         
 ```C
 #include <stdio.h>
 
-int main(){
+int main()
+{
 printf("Hello! We are Smarcle!\n");
 return 0;
 }
 ```
-
+*파이썬           
 ```python
 print("Hello! We are Smarcle!\n")
 ```
