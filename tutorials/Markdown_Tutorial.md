@@ -141,7 +141,7 @@ This is an H2
 `(키보드에서 숫자키 옆에 ~키를 시프트 누르지 않고 나타내는 억음 부호를 통해 인라인에서 코드를 표현할 수 있다)를 사용하여 코드블럭코드를 만들 수 있는데 이를 이용해 코드를 출력할 수 있다.    
 깃헙에서는 코드블럭코드("```") 시작점에 사용하는 언어를 선언하여 [문법강조(Syntax highlighting)](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks#syntax-highlighting)이 가능하다.                 
 ![캡처123](https://user-images.githubusercontent.com/81175672/158050318-6ab3a8a3-23e8-4fad-aaee-75ba014b49eb.JPG)
-[표 출처](https://computer-science-student.tistory.com/366)
-'''C
+[표 출처](https://computer-science-student.tistory.com/366)                
+```C
 printf("Hello! We are Smarcle!");
-'''
+```
