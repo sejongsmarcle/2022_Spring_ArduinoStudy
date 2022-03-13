@@ -224,11 +224,15 @@ __double underscores__
 ```
 ### 위 경로로 변경시키는 법
 ![캡처45](https://user-images.githubusercontent.com/81175672/158050745-bedf1178-0c59-4626-b53b-ef4e2fe134a9.JPG)      
-1. Issues 창에 들어가기     
+#### 1. Issues 창에 들어가기     
 ![캡처46](https://user-images.githubusercontent.com/81175672/158050787-521ae066-3b0f-435a-b272-d2c8d2814890.JPG)          
-2. New issue 클릭          
+#### 2. New issue 클릭          
 ![캡처47](https://user-images.githubusercontent.com/81175672/158050813-c0c1ef99-5f9a-4b82-82a6-5f3323027052.JPG)      
-3. Leave a comment에 사진 파일 드래그
+#### 3. Leave a comment에 사진 파일 드래그
 ![캡처48](https://user-images.githubusercontent.com/81175672/158050835-f0ae93b9-265a-4dbe-a962-9a3e79dcd7f8.JPG)    
-4. 반환된 경로를 github 파일에 붙여넣기
+#### 4. 반환된 경로를 github 파일에 붙여넣기
 
+### 사진 크기 조절하는 법
+```
+<img src="(사진 경로)"  width="(너비)" height="(높이)"/> 
+```           
