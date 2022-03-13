@@ -211,11 +211,11 @@ _single underscores_
 __double underscores__
 ~~cancelline~~
 ```
-*single asterisks*
-_single underscores_
-**double asterisks**
-__double underscores__
-~~cancelline~~
+*single asterisks*                     
+_single underscores_                           
+**double asterisks**                                    
+__double underscores__                                    
+~~cancelline~~                           
 
 ## 2.8. 이미지
 ```
