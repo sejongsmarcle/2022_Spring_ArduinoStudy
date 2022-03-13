@@ -143,5 +143,16 @@ This is an H2
 ![캡처123](https://user-images.githubusercontent.com/81175672/158050318-6ab3a8a3-23e8-4fad-aaee-75ba014b49eb.JPG)
 [표 출처](https://computer-science-student.tistory.com/366)                
 ```C
-printf("Hello! We are Smarcle!");
+#include <stdio.h>
+
+int main(){
+printf("Hello! We are Smarcle!\n");
+return 0;
+}
 ```
+
+```python
+print("Hello! We are Smarcle!\n")
+```
+
+
