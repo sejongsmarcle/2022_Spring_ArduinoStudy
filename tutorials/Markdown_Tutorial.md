@@ -267,7 +267,7 @@ __double underscores__
 ![Alt text](/path/to/img.jpg)
 ![Alt text](/path/to/img.jpg "Optional title")
 ```
-### 사진 경로 변경시키는 법
+### 사진 경로 변환시키는 법
 
 ![캡처45](https://user-images.githubusercontent.com/81175672/158050745-bedf1178-0c59-4626-b53b-ef4e2fe134a9.JPG)      
 #### 1. Issues 창에 들어가기     
