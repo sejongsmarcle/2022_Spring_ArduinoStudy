@@ -155,7 +155,7 @@ return 0;
 ```
 * 파이썬           
 ```python
-print("Hello! We are Smarcle!\n")
+print("Hello! We are Smarcle!")
 ```
                    
 ## 2.5. 수평선 ```<hr/>```
