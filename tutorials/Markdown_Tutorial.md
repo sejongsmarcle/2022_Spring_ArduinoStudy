@@ -288,11 +288,11 @@ Github에는 직접 동영상을 첨부할 수가 없어서 유튜브에 동영�
 ```
 
 ```
-예를 들어보면, 세종대 지능기전공학부 홍보 영상 유튜브 링크는 https://www.youtube.com/watch?v=c482mn560Lk이다. 여기서 마지막에 나오는 c482mn560Lk를 동영상의 id라고 한다면, 
-이미지 주소는  https://img.youtube.com/vi/c482mn560Lk/0.jpg 가 된다.
+예를 들어보면, 세종대 지능기전공학부 홍보 영상 유튜브 링크는 https://www.youtube.com/watch?v=c482mn560Lk이다. 
+여기서 마지막에 나오는 c482mn560Lk를 동영상의 id라고 한다면, 이미지 주소는  https://img.youtube.com/vi/c482mn560Lk/0.jpg 가 된다.
 ```
 [![지능기전공학부](https://img.youtube.com/vi/c482mn560Lk/0.jpg)](https://www.youtube.com/watch?v=c482mn560Lk)   
-
+(사진을 클릭하면 유튜브 링크로 연결된다....)             
 
 ## 2.10. 줄바꿈
 3칸 이상 띄어쓰기(` `)를 하면 줄이 바뀐다.
