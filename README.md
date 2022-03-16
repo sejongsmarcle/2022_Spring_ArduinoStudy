@@ -7,7 +7,7 @@
 ## 스터디 목표
 
 - **SMARCLE** 적응기간
-  - github, Notion, Markdown 문법의 사용
+  - github, Markdown 문법의 사용
   - 개발자로써의 기본 갖추기
   - 인공지능 경험, **teachable machine** 을 사용
  
