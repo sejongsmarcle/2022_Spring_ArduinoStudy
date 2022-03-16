@@ -71,5 +71,7 @@ Github는 Git을 사용할 수 있는 플랫폼
 - 프로젝트의 공동 책임자
 - push, pull 권한을 모두 가지고 있는 사람
 
-
+## 참고
+- [Github 튜토리얼](https://www.google.com/search?q=%EA%B9%83%ED%97%88%EB%B8%8C+%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC&oq=%EA%B9%83%ED%97%88%EB%B8%8C+%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC&aqs=chrome..69i57j69i61l3.4230j0j15&sourceid=chrome&ie=UTF-8)
+- [지옥에서 온 관리자 Git](https://www.opentutorials.org/course/2708)
 
