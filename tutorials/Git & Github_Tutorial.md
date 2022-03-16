@@ -24,7 +24,8 @@ Git이 스마트폰이라면 Github는 아이폰? SNS라면 인스타? 프로그
 - merge
 - push
 - pull
-- gitignore
+- ignore
+- etc...
 
 # 2. Github
 Github는 Git을 사용할 수 있는 플랫폼
