@@ -3,18 +3,20 @@
 ## 1.1 왜 Git을 사용하는가?
 - **버전관리**
 
-![과제제출 버전관리]()
+![과제제출 버전관리](https://user-images.githubusercontent.com/54783158/158599198-0f888baf-5623-4eb4-a354-b110d0089a95.jpg)
 - **백업하기**
 
-![드라이브]()
+![드라이브](https://user-images.githubusercontent.com/54783158/158599155-74431b92-9bfb-4824-a840-ac2e756e8395.png)
 - **협업하기**
 
-<img src="/path/to/img.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
-``` 
+![협업](https://user-images.githubusercontent.com/54783158/158599182-4f0a8e9c-df92-4f61-86ae-41f09529203f.jpg)
+```
 Git이 스마트폰이라면 Github는 아이폰? SNS라면 인스타? 프로그래밍 언어라면 Python?
 ```
 
 ## 1.2 Git의 다향한 기능
+
+![image](https://user-images.githubusercontent.com/54783158/158599140-6dd3b851-c84e-4954-8ac5-646d4d72cfed.png)
 - staging
 - commit
 - branch
