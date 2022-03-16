@@ -33,7 +33,7 @@
 ## 스터디 계획
 #### 스터디 기간 21.03 ~ 21.06 총 7회차 (중간고사,2차인증시험,기말고사 주간 제외) 
 
-|주차|날짜|내용,자료|미션|영상|
+|주차|미션 제출 기한|내용,자료|미션|영상|
 |:---:|:---:|:---:|:---:|:--:|
 0주차|22.03.17 ~ 22.03.27|[OT & 깃허브 튜토리얼]()|[미션 0](https://github.com/sejongsmarcle/2022_Spring_ArduinoStudy/blob/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/0%EC%A3%BC%EC%B0%A8/0%EC%A3%BC%EC%B0%A8%20%EB%AF%B8%EC%85%98.md)|x|x|
 1주차|22.03.21 ~ 22.03.27|[인공지능 기본 및 Teachable Machine](https://www.youtube.com/watch?v=Vlc3pyTRyJI&list=PLvRUlpIVi9qQE4GkzUYpdDVxIN5rBeDYR&index=15) |[미션 1](https://github.com/sejongsmarcle/2022_Spring_ArduinoStudy/blob/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/1%EC%A3%BC%EC%B0%A8/1%EC%A3%BC%EC%B0%A8%20%EB%AF%B8%EC%85%98.md)|[인공지능](https://www.youtube.com/watch?v=nxrLOodB5Yg&list=PLvRUlpIVi9qQE4GkzUYpdDVxIN5rBeDYR&index=14), [teachable machine](https://www.youtube.com/watch?v=Vlc3pyTRyJI&list=PLvRUlpIVi9qQE4GkzUYpdDVxIN5rBeDYR&index=15)|
