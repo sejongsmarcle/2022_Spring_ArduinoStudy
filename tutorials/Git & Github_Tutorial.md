@@ -61,16 +61,13 @@ Github는 Git을 사용할 수 있는 플랫폼
 
 ![MS soft](https://user-images.githubusercontent.com/54783158/158600980-c716d5aa-9fc8-4ee5-9bb5-1ecf1d93c984.jpg)
 
-## 2.4 issues & comment
+## 2.4 Contributor & Colllaborator
 
-### 2.4.1 issues
-## 2.5 Contributor & Colllaborator
-
-### 2.5.1 Contributor
+### 2.4.1 Contributor
 - 한 프로젝트의 commit에 관여하는 모든 사람
 - PullRequest를 생성하고 Collaborator가 검토
 
-### 2.5.2 Collaborator
+### 2.4.2 Collaborator
 - 프로젝트의 공동 책임자
 - push, pull 권한을 모두 가지고 있는 사람
 
