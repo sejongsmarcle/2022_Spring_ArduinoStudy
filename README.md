@@ -48,9 +48,22 @@
 에비|21.05.30 ~ 21.06.05|[아두이노]()|[미션]()|x|
 
 
+## 팀
+|  | 1팀 | 2팀 | 3팀 | 4팀 |
+|:---:|:---:|:---:|:---:|:---:|
+|스클|19 이용빈|21 노지민|21 유정수|21 김수환|
+|  |21 정유찬|21 유혁재|21 김용현|21 유지원|
+|  |  |  |19 강호연|  |
+| 마클 |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+
 
 ## 참고
 
+- [생활코딩 MachineLearning](https://www.youtube.com/playlist?list=PLuHgQVnccGMDy5oF7G5WYxLF3NCYhB9H9)
 - [마크다운 .md 작성법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
 - [코코아팹 학습가이드](https://kocoafab.cc/product/studyguide)
 - [2020_SMARCLE_아두이노_멘토링강좌](https://youtube.com/playlist?list=PLvRUlpIVi9qQE4GkzUYpdDVxIN5rBeDYR)
