@@ -1,0 +1,116 @@
+# Teachable Machine으로 나만의 모델 만들기!!!
+
+### 1. 주제 선정
+> 어떤 주제로 모델을 만들어 볼까 하다가 제가 키우고 있는 강아지로 하기로 했어요. 강아지 이름은 **뭉치** 입니다! (~~사고뭉치라..~~) 나이는 이제 3살이고 비숑이에요. 얼마전에 생일이었어요! 다시 본론으로 들어가서 강아지를 주제로 선정한 이유는, 지금은 멀리서 봐도 비숑이라는 걸 알아볼 수 있지만 뭉치가 어렸을 때는 말티즈랑 많이 헷갈려 했어요.. 주변사람들도 처음에 보자마자 말티즈냐고 하더라고요..? 그래서 가끔 부모님께 비숑..맞지?! 라고 물어보았던 기억이 있어요 ㅎ 그래서 이번 기회에 뭉치 어렸을 때 사진을 가지고 비숑이랑 말티즈 중에 어느쪽에 얼마나 더 가까울지 궁금해서 선정해봤어요!(당연히 비숑 쪽에 가깝...겠죠?)
+---
+
+  ### 2. 이미지 샘플 입력하기
+  <img width="1126" alt="1" src="https://user-images.githubusercontent.com/101801401/160258219-3930f5a3-3156-40a3-998f-da9b1f3dd986.png">
+
+> 먼저, 인터넷에서 비숑사진이랑 말티즈 사진을 다운받아 이미지 샘플에 입력을 했어요. 뭉치의 어렸을 때를 고려해서 최대한 비슷한 연령대(?)로 골라서 넣었어요.!
+
+> 그리고 학습을 시켜줍니다! 
+---
+### 3. 결과
+<img width="1087" alt="2" src="https://user-images.githubusercontent.com/101801401/160258314-62936343-7c87-45fd-b730-b3208bb2b643.png">
+<img width="1060" alt="3" src="https://user-images.githubusercontent.com/101801401/160258336-014bf4a1-3b10-4460-b0ad-968d26b49d75.png">
+<img width="1004" alt="5" src="https://user-images.githubusercontent.com/101801401/160258342-9fbe5ae3-04aa-4152-be64-ed9e66817f1f.png">
+
+> 다행히(?) 비숑에 가깝게 뜨는걸 확인할 수 있었어요! 
+---
+### 4. 추가
+> 이대로 끝내긴 아쉬워서 한가지 더 해보고 싶었어요. 어렸을 때 본인을 알아볼 수 있을까! 뭉치 VS 비숑으로 입력을 해봤어요.
+> 
+<img width="982" alt="17" src="https://user-images.githubusercontent.com/101801401/160258547-8e67e7f4-192e-48e8-8a61-78f2b7de5f7f.png">
+<img width="995" alt="18" src="https://user-images.githubusercontent.com/101801401/160258552-3ec6a23f-80c2-40f7-8fdf-9e73a51a2900.png">
+
+> 다르게 생기긴 했지만 비슷하게 생겨서 어떤 결과가 나올지 궁금했는데 자기자신을 잘 알아보네요!
+---
+### 5. 코드
+```
+<div>Teachable Machine Image Model</div>
+<button type="button" onclick="init()">Start</button>
+<div id="webcam-container"></div>
+<div id="label-container"></div>
+<script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@1.3.1/dist/tf.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@teachablemachine/image@0.8/dist/teachablemachine-image.min.js"></script>
+<script type="text/javascript">
+    // More API functions here:
+    // https://github.com/googlecreativelab/teachablemachine-community/tree/master/libraries/image
+
+    // the link to your model provided by Teachable Machine export panel
+    const URL = "./my_model/";
+
+    let model, webcam, labelContainer, maxPredictions;
+
+    // Load the image model and setup the webcam
+    async function init() {
+        const modelURL = URL + "model.json";
+        const metadataURL = URL + "metadata.json";
+
+        // load the model and metadata
+        // Refer to tmImage.loadFromFiles() in the API to support files from a file picker
+        // or files from your local hard drive
+        // Note: the pose library adds "tmImage" object to your window (window.tmImage)
+        model = await tmImage.load(modelURL, metadataURL);
+        maxPredictions = model.getTotalClasses();
+
+        // Convenience function to setup a webcam
+        const flip = true; // whether to flip the webcam
+        webcam = new tmImage.Webcam(200, 200, flip); // width, height, flip
+        await webcam.setup(); // request access to the webcam
+        await webcam.play();
+        window.requestAnimationFrame(loop);
+
+        // append elements to the DOM
+        document.getElementById("webcam-container").appendChild(webcam.canvas);
+        labelContainer = document.getElementById("label-container");
+        for (let i = 0; i < maxPredictions; i++) { // and class labels
+            labelContainer.appendChild(document.createElement("div"));
+        }
+    }
+
+    async function loop() {
+        webcam.update(); // update the webcam frame
+        await predict();
+        window.requestAnimationFrame(loop);
+    }
+
+    // run the webcam image through the image model
+    async function predict() {
+        // predict can take in an image, video or canvas html element
+        const prediction = await model.predict(webcam.canvas);
+        for (let i = 0; i < maxPredictions; i++) {
+            const classPrediction =
+                prediction[i].className + ": " + prediction[i].probability.toFixed(2);
+            labelContainer.childNodes[i].innerHTML = classPrediction;
+        }
+    }
+</script>
+```
+---
+### 6. epoch, batch size ?
+
+#### epoch
+* epoch의 사전적 의미:  (중요한 사건, 변화들이 일어난) 시대
+* 딥러닝에서 epoch는 학습의 횟수를 의미함
+* 적절한 epoch을 설정해야 underfitting 과 overfitting을 방지할 수 있음
+	* overfitting : 학습 데이터(Training Set)에 대해 과하게  학습된 상황 
+	* underfitting : 이미 있는 Train set도 학습을 하지 못한 상태
+	
+<img width="1013" alt="19" src="https://user-images.githubusercontent.com/101801401/160259417-71d894d7-0e75-4b24-8be0-a9f0897c7716.png">
+
+> epoch를 높였더니 정확도가 올라간 것을 볼 수 있었다 (93% ->100%)
+
+
+#### batch size
+* batch의 사전적 의미 : 집단, 무리 
+* 딥러닝에서 batch는 모델의 가중치를 한번 업데이트시킬 때 사용되는 샘플들의 묶음을 의미함
+
+<img width="436" alt="화면 캡처 2022-03-27 074229" src="https://user-images.githubusercontent.com/101801401/160259390-6f1d5a8c-ad42-4364-9d8d-2195f5db998d.png">
+
+---
+### 7. 느낀점
+
+> 이렇게 1주차 활동을 마치게 되었는데, 인공지능을 다루어 봤다는 것이 신기했다. Teachable Machine을 만드신 분들이  대단하다는 생각이 들었다. 관심 있는 분야로 주제를 선정해서 좀 더 재미있게 할 수 있었던 것 같았다. 이번 활동을 바탕으로 인공지능에 대해 더 알아가고 앞으로도 이러한 활동들을 해보고 싶다. 좋은 경험이었다!
+  
