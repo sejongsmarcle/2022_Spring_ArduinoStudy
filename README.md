@@ -44,7 +44,7 @@
 6주차|21.05.09 ~ 21.05.15|[서보모터, 참참참 로봇]()|[미션6]()|[10강](https://www.youtube.com/watch?v=jHWNWzYHf0o&list=PLvRUlpIVi9qQE4GkzUYpdDVxIN5rBeDYR&index=10), [11강](https://www.youtube.com/watch?v=XyJVEqmrPUo&list=PLvRUlpIVi9qQE4GkzUYpdDVxIN5rBeDYR&index=11)|
 7주차|21.05.16 ~ 21.05.22|[아이디어 구상, 발표]()|[Graduate Arduino 1]()||
 8주차|21.05.23 ~ 21.05.29|[아이디어 구현]()|[Graduate Arduino 2]()|x|
-에비|21.05.30 ~ 21.06.05|[아두이노]()|[미션]()|[12강](https://www.youtube.com/watch?v=X5VG-04pXTs&list=PLvRUlpIVi9qQE4GkzUYpdDVxIN5rBeDYR&index=12), [13강](https://www.youtube.com/watch?v=b7Mg5ay7zpw&list=PLvRUlpIVi9qQE4GkzUYpdDVxIN5rBeDYR&index=13)|
+에비|21.05.30 ~ 21.06.05|[바보상자]()|[미션]()|[12강](https://www.youtube.com/watch?v=X5VG-04pXTs&list=PLvRUlpIVi9qQE4GkzUYpdDVxIN5rBeDYR&index=12), [13강](https://www.youtube.com/watch?v=b7Mg5ay7zpw&list=PLvRUlpIVi9qQE4GkzUYpdDVxIN5rBeDYR&index=13)|
 
 
 ## 팀
