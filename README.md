@@ -31,20 +31,20 @@
 
 
 ## 스터디 계획
-#### 스터디 기간 21.03 ~ 21.06 총 7회차 (중간고사,2차인증시험,기말고사 주간 제외) 
+#### 스터디 기간 22.03 ~ 22.06 총 7회차 (중간고사,2차인증시험,기말고사 주간 제외) 
 
 |주차|미션 제출 기한|내용,자료|미션|영상|
 |:---:|:---:|:---:|:---:|:--:|
 0주차|22.03.19 ~ 22.03.27|[OT & 깃허브 튜토리얼](https://github.com/sejongsmarcle/2022_Spring_ArduinoStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/0%EC%A3%BC%EC%B0%A8)|[미션 0](https://github.com/sejongsmarcle/2022_Spring_ArduinoStudy/issues/1)|[O.T 다시보기](https://youtu.be/wnDyDJTHpNk)|
 1주차|22.03.21 ~ 22.03.27|[인공지능 기본 및 Teachable Machine](https://github.com/sejongsmarcle/2022_Spring_ArduinoStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/1%EC%A3%BC%EC%B0%A8) |[미션 1](https://github.com/sejongsmarcle/2022_Spring_ArduinoStudy/issues/4)|[인공지능](https://www.youtube.com/watch?v=nxrLOodB5Yg&list=PLvRUlpIVi9qQE4GkzUYpdDVxIN5rBeDYR&index=14), [teachable machine](https://www.youtube.com/watch?v=Vlc3pyTRyJI&list=PLvRUlpIVi9qQE4GkzUYpdDVxIN5rBeDYR&index=15)|
-2주차|21.03.28 ~ 21.04.03|[아두이노, LED와 브래드보드](https://github.com/sejongsmarcle/2022_Spring_ArduinoStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/2%EC%A3%BC%EC%B0%A8)|[미션 2](https://github.com/sejongsmarcle/2022_Spring_ArduinoStudy/issues/5)|[2강](https://www.youtube.com/watch?v=A4sR7h03Z98&list=PLvRUlpIVi9qQE4GkzUYpdDVxIN5rBeDYR&index=2), [3강](https://www.youtube.com/watch?v=uW3HYIBQnsw&list=PLvRUlpIVi9qQE4GkzUYpdDVxIN5rBeDYR&index=3)|
-3주차|21.04.04 ~ 21.04.10|[저항과 LED, 아두이노 스케치 문법](https://github.com/sejongsmarcle/2022_Spring_ArduinoStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/3%EC%A3%BC%EC%B0%A8)|[미션 3](https://github.com/sejongsmarcle/2022_Spring_ArduinoStudy/issues/6)|[4강](https://www.youtube.com/watch?v=HmIrrwRos2I&list=PLvRUlpIVi9qQE4GkzUYpdDVxIN5rBeDYR&index=4), [5강](https://www.youtube.com/watch?v=Ya2dZEH3Bw4&list=PLvRUlpIVi9qQE4GkzUYpdDVxIN5rBeDYR&index=5)|
-4주차|21.04.11 ~ 21.05.01|[스위치와 LED, 밤낮 감지 가로등]()|[미션 4](https://github.com/sejongsmarcle/2022_Spring_ArduinoStudy/issues/7)|[6강](https://www.youtube.com/watch?v=-XZK9K6GkWU&list=PLvRUlpIVi9qQE4GkzUYpdDVxIN5rBeDYR&index=6), [7강](https://www.youtube.com/watch?v=xwEm5dEk6e4&list=PLvRUlpIVi9qQE4GkzUYpdDVxIN5rBeDYR&index=7)|
-5주차|21.05.02 ~ 21.05.08|[부저, 초음파 센서와 후방 감지기]()|[미션 5]()|[8강](https://www.youtube.com/watch?v=9mHwuiHsvPc&list=PLvRUlpIVi9qQE4GkzUYpdDVxIN5rBeDYR&index=8), [9강](https://www.youtube.com/watch?v=ItLQb-jLVbg&list=PLvRUlpIVi9qQE4GkzUYpdDVxIN5rBeDYR&index=9)|
-6주차|21.05.09 ~ 21.05.15|[서보모터, 참참참 로봇]()|[미션6]()|[10강](https://www.youtube.com/watch?v=jHWNWzYHf0o&list=PLvRUlpIVi9qQE4GkzUYpdDVxIN5rBeDYR&index=10), [11강](https://www.youtube.com/watch?v=XyJVEqmrPUo&list=PLvRUlpIVi9qQE4GkzUYpdDVxIN5rBeDYR&index=11)|
-7주차|21.05.16 ~ 21.05.22|[C 2차 인증 준비]()|[c]()||
-8주차|21.05.23 ~ 21.05.29|[아이디어 구현]()|[Graduate Arduino 2]()|x|
-에비|21.05.30 ~ 21.06.05|[바보상자]()|[미션]()|[12강](https://www.youtube.com/watch?v=X5VG-04pXTs&list=PLvRUlpIVi9qQE4GkzUYpdDVxIN5rBeDYR&index=12), [13강](https://www.youtube.com/watch?v=b7Mg5ay7zpw&list=PLvRUlpIVi9qQE4GkzUYpdDVxIN5rBeDYR&index=13)|
+2주차|22.03.28 ~ 22.04.03|[아두이노, LED와 브래드보드](https://github.com/sejongsmarcle/2022_Spring_ArduinoStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/2%EC%A3%BC%EC%B0%A8)|[미션 2](https://github.com/sejongsmarcle/2022_Spring_ArduinoStudy/issues/5)|[2강](https://www.youtube.com/watch?v=A4sR7h03Z98&list=PLvRUlpIVi9qQE4GkzUYpdDVxIN5rBeDYR&index=2), [3강](https://www.youtube.com/watch?v=uW3HYIBQnsw&list=PLvRUlpIVi9qQE4GkzUYpdDVxIN5rBeDYR&index=3)|
+3주차|22.04.04 ~ 22.04.10|[저항과 LED, 아두이노 스케치 문법](https://github.com/sejongsmarcle/2022_Spring_ArduinoStudy/tree/main/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%9E%90%EB%A3%8C/3%EC%A3%BC%EC%B0%A8)|[미션 3](https://github.com/sejongsmarcle/2022_Spring_ArduinoStudy/issues/6)|[4강](https://www.youtube.com/watch?v=HmIrrwRos2I&list=PLvRUlpIVi9qQE4GkzUYpdDVxIN5rBeDYR&index=4), [5강](https://www.youtube.com/watch?v=Ya2dZEH3Bw4&list=PLvRUlpIVi9qQE4GkzUYpdDVxIN5rBeDYR&index=5)|
+4주차|22.04.11 ~ 22.05.01|[스위치와 LED, 밤낮 감지 가로등]()|[미션 4](https://github.com/sejongsmarcle/2022_Spring_ArduinoStudy/issues/7)|[6강](https://www.youtube.com/watch?v=-XZK9K6GkWU&list=PLvRUlpIVi9qQE4GkzUYpdDVxIN5rBeDYR&index=6), [7강](https://www.youtube.com/watch?v=xwEm5dEk6e4&list=PLvRUlpIVi9qQE4GkzUYpdDVxIN5rBeDYR&index=7)|
+5주차|22.05.02 ~ 22.05.08|[부저, 초음파 센서와 후방 감지기]()|[미션 5]()|[8강](https://www.youtube.com/watch?v=9mHwuiHsvPc&list=PLvRUlpIVi9qQE4GkzUYpdDVxIN5rBeDYR&index=8), [9강](https://www.youtube.com/watch?v=ItLQb-jLVbg&list=PLvRUlpIVi9qQE4GkzUYpdDVxIN5rBeDYR&index=9)|
+6주차|22.05.09 ~ 22.05.15|[서보모터, 참참참 로봇]()|[미션6]()|[10강](https://www.youtube.com/watch?v=jHWNWzYHf0o&list=PLvRUlpIVi9qQE4GkzUYpdDVxIN5rBeDYR&index=10), [11강](https://www.youtube.com/watch?v=XyJVEqmrPUo&list=PLvRUlpIVi9qQE4GkzUYpdDVxIN5rBeDYR&index=11)|
+7주차|22.05.16 ~ 22.05.22|[C 2차 인증 준비]()|[c]()||
+8주차|22.05.23 ~ 22.05.29|[아이디어 구현]()|[Graduate Arduino 2]()|x|
+에비|22.05.30 ~ 22.06.05|[바보상자]()|[미션]()|[12강](https://www.youtube.com/watch?v=X5VG-04pXTs&list=PLvRUlpIVi9qQE4GkzUYpdDVxIN5rBeDYR&index=12), [13강](https://www.youtube.com/watch?v=b7Mg5ay7zpw&list=PLvRUlpIVi9qQE4GkzUYpdDVxIN5rBeDYR&index=13)|
 
 
 ## 팀
